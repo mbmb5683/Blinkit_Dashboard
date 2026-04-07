@@ -9,6 +9,15 @@ This project showcases an interactive **Sales Analysis Dashboard** built using *
 
 It helps businesses make data-driven decisions by visualizing key metrics in an intuitive way.
 
+Analyzes Blinkit sales performance using Power BI dashboard
+Shows total sales of $1.20M and 9K items sold
+Displays average customer rating of 3.92
+Helps understand customer behavior and product demand
+Identifies top-performing and low-performing products
+Supports data-driven decision-making
+Improves operational efficiency and planning
+Assists in creating effective business strategies for growth and profitability
+
 ---
 
 ## 📌 Key Features
